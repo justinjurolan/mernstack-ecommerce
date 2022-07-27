@@ -2,7 +2,7 @@
 
 ## Overview
 
-My first project in building a full stack web application. This project is a e-commerce book shop created using MongoDB Atlas as the database, Express JS and Node JS for the backend functionality and React JS for the front-end. 
+My first project in building a full stack web application. This project is a e-commerce book shop created using MongoDB Atlas as the database, Express JS and Node JS for the backend functionality. React JS and Bootstrap for the front-end. 
 
 ## Installation
 
